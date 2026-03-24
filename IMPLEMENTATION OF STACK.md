@@ -26,7 +26,7 @@ To write a Python program to implement a stack using a list and its built-in met
 
 ### PROGRAM
 
-````python
+```python
 # REGNO:-212222060278
 # name:- THIRILOGACHAND V
 stack = []
@@ -41,3 +41,8 @@ print("\nStack after elements are popped:")
 print(stack)
 
 ```
+### OUTPUT
+<img width="768" height="370" alt="image" src="https://github.com/user-attachments/assets/b2bcfa31-ea27-44a8-a615-53f8b7faed26" />
+
+### RESULT
+Thus a Python program to implement a stack using a list and its built-in methods (append(), pop()) has been executed succesfully.
